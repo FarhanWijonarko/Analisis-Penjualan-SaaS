@@ -14,7 +14,9 @@ Dataset ini mencakup data transaksi SaaS dari berbagai wilayah, mencakup pelangg
 
 ## ❓ Rumusan Masalah
 
-1. Bagaimana distribusi penjualan produk SaaS di berbagai Region dan Sub-Region?
+1. Wilayah dan Distribusi
+   1. Bagaimana distribusi penjualan produk SaaS di berbagai Region dan Sub-Region?
+   2. Apakah negara dengan jumlah pelanggan terbanyak juga mencatatkan penjualan tertinggi?
 2. Apakah negara dengan jumlah pelanggan terbanyak juga mencatatkan penjualan tertinggi?
 3. Seberapa kuat hubungan antara nilai penjualan (Sales) dan profit dalam setiap transaksi?
 4. Seberapa besar pengaruh diskon terhadap profit yang dihasilkan dari setiap transaksi?
